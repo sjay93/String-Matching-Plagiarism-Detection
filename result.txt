@@ -1,0 +1,91 @@
+
+
+
+ From Source file : Are You Afraid of the Dark BY Sidney Sheldon.txt
+ Source file Sentence Count: 6443
+Input Sentence Count22
+ BM Similarity ratio : 44.09295500402128 Time Taken = 4.417103 Count : 	
+ Naive Similarity ratio : 44.21994271443286 Time Taken = 4.408055 Count : 3355031
+ KMP Similarity ratio : 35.42957120483118 Time Taken = 8.98226 Count : 125641350
+ LCSS Similarity ratio : 53.94861230652011 Time Taken = 59.007666 Count : 610154586
+
+
+ From Source file : Assignment 2.txt
+ Source file Sentence Count: 11
+Input Sentence Count22
+ BM Similarity ratio : 49.586776859504134 Time Taken = 0.005929417102999999 Count : 2314600
+ Naive Similarity ratio : 49.586776859504134 Time Taken = 0.009876408054999999 Count : 3363574
+ KMP Similarity ratio : 12.396694214876034 Time Taken = 0.01895998226 Count : 125927316
+ LCSS Similarity ratio : 49.586776859504134 Time Taken = 0.11137200766599999 Count : 611540658
+
+
+ From Source file : Assignment 4.txt
+ Source file Sentence Count: 29
+Input Sentence Count22
+ BM Similarity ratio : 43.8871473354232 Time Taken = 0.024478005929417103 Count : 2330951
+ Naive Similarity ratio : 43.8871473354232 Time Taken = 0.03394800987640805 Count : 3390883
+ KMP Similarity ratio : 29.780564263322884 Time Taken = 0.044210018959982264 Count : 126838870
+ LCSS Similarity ratio : 53.29153605015674 Time Taken = 0.29841711137200766 Count : 615970062
+
+
+ From Source file : file1.txt
+ Source file Sentence Count: 1
+Input Sentence Count22
+ BM Similarity ratio : 90.9090909090909 Time Taken = 0.0015790244780059296 Count : 2331347
+ Naive Similarity ratio : 90.9090909090909 Time Taken = 0.0019750339480098765 Count : 3391751
+ KMP Similarity ratio : 45.45454545454545 Time Taken = 0.00276204421001896 Count : 126865156
+ LCSS Similarity ratio : 90.9090909090909 Time Taken = 0.02526329841711137 Count : 616098960
+
+
+ From Source file : file2.txt
+ Source file Sentence Count: 3
+Input Sentence Count22
+ BM Similarity ratio : 15.151515151515152 Time Taken = 0.001578001579024478 Count : 2332447
+ Naive Similarity ratio : 15.151515151515152 Time Taken = 0.001579001975033948 Count : 3393891
+ KMP Similarity ratio : 15.151515151515152 Time Taken = 0.00473600276204421 Count : 126937614
+ LCSS Similarity ratio : 90.9090909090909 Time Taken = 0.03000602526329842 Count : 616450500
+
+
+ From Source file : file3.txt
+ Source file Sentence Count: 11
+Input Sentence Count22
+ BM Similarity ratio : 24.793388429752067 Time Taken = 0.01737300157800158 Count : 2336844
+ Naive Similarity ratio : 24.793388429752067 Time Taken = 0.009869001579001975 Count : 3402832
+ KMP Similarity ratio : 24.793388429752067 Time Taken = 0.02645000473600276 Count : 127210650
+ LCSS Similarity ratio : 66.11570247933885 Time Taken = 0.16579203000602527 Count : 617781330
+
+
+ From Source file : file4.txt
+ Source file Sentence Count: 22
+Input Sentence Count22
+ BM Similarity ratio : 55.78512396694215 Time Taken = 0.014996017373001578 Count : 2349503
+ Naive Similarity ratio : 55.78512396694215 Time Taken = 0.01342000986900158 Count : 3427454
+ KMP Similarity ratio : 41.32231404958678 Time Taken = 0.034747026450004735 Count : 127939246
+ LCSS Similarity ratio : 68.18181818181817 Time Taken = 0.19696416579203 Count : 621336906
+
+
+ From Source file : Project4_Rubric.txt
+ Source file Sentence Count: 2
+Input Sentence Count22
+ BM Similarity ratio : 45.45454545454545 Time Taken = 7.900149960173731E-4 Count : 2350500
+ Naive Similarity ratio : 45.45454545454545 Time Taken = 7.900134200098689E-4 Count : 3429251
+ KMP Similarity ratio : 45.45454545454545 Time Taken = 0.0011830347470264502 Count : 128003153
+ LCSS Similarity ratio : 90.9090909090909 Time Taken = 0.013418196964165793 Count : 621648270
+
+
+ From Source file : the-naked-face-by-sidney-sheldon.txt
+ Source file Sentence Count: 6231
+Input Sentence Count22
+ BM Similarity ratio : 42.14995404210618 Time Taken = 4.368173000790015 Count : 3931422
+ Naive Similarity ratio : 42.29585211771057 Time Taken = 4.329920000790013 Count : 5745590
+ KMP Similarity ratio : 34.030726134722286 Time Taken = 8.564231001183035 Count : 215645524
+ LCSS Similarity ratio : 51.38530222786362 Time Taken = 55.677793013418196 Count : 1046986560
+
+
+ From Source file : Web 2 - Assignment 3-web.txt
+ Source file Sentence Count: 52
+Input Sentence Count22
+ BM Similarity ratio : 52.44755244755245 Time Taken = 0.033954368173000786 Count : 3964506
+ Naive Similarity ratio : 52.44755244755245 Time Taken = 0.04342432992000079 Count : 5802020
+ KMP Similarity ratio : 34.96503496503497 Time Taken = 0.08330256423100119 Count : 217564567
+ LCSS Similarity ratio : 66.43356643356643 Time Taken = 0.5318026777930134 Count : 1056324132
